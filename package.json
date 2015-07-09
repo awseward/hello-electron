@@ -14,5 +14,8 @@
   },
   "bugs": {
     "url": "https://github.com/awseward/hello-electron/issues"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.29.2"
   }
 }
