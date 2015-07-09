@@ -1,0 +1,18 @@
+{
+  "name": "hello-electron",
+  "version": "0.0.0",
+  "description": "A first look at GitHub's Electron application framework",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/awseward/hello-electron.git"
+  },
+  "bugs": {
+    "url": "https://github.com/awseward/hello-electron/issues"
+  }
+}

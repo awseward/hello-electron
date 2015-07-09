@@ -1,0 +1,11 @@
+PreCommit:
+  TrailingWhitespace:
+    enabled: true
+    problem_on_unmodified_line: ignore
+
+CommitMsg:
+  HardTabs:
+    enabled: true
+
+  RussianNovel:
+    enabled: true
