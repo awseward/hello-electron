@@ -23,5 +23,8 @@
     "gulp-task-listing": "^1.0.1",
     "shelljs": "^0.5.1"
   },
-  "homepage": "https://github.com/awseward/hello-electron#readme"
+  "homepage": "https://github.com/awseward/hello-electron#readme",
+  "dependencies": {
+    "request-promise": "^0.4.2"
+  }
 }
