@@ -17,6 +17,8 @@
   },
   "devDependencies": {
     "electron-prebuilt": "^0.29.2",
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-task-listing": "^1.0.1",
+    "shelljs": "^0.5.1"
   }
 }
