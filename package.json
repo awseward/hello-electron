@@ -16,6 +16,10 @@
     "url": "https://github.com/awseward/hello-electron/issues"
   },
   "devDependencies": {
-    "electron-prebuilt": "^0.29.2"
+    "electron-prebuilt": "^0.29.2",
+    "gulp": "^3.9.0",
+    "gulp-es6-transpiler": "^1.0.1",
+    "gulp-task-listing": "^1.0.1",
+    "shelljs": "^0.5.1"
   }
 }
