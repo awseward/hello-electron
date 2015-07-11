@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/awseward/hello-electron#readme",
   "dependencies": {
+    "request": "^2.58.0",
     "request-promise": "^0.4.2"
   }
 }
