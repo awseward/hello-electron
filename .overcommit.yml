@@ -2,6 +2,8 @@ PreCommit:
   TrailingWhitespace:
     enabled: true
     problem_on_unmodified_line: ignore
+  EsLint:
+    enabled: true
 
 CommitMsg:
   HardTabs:
